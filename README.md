@@ -1,6 +1,7 @@
 
 ### Hi there, 👋
 
+![Banner_1682752983342](https://github.com/TanuYadu/TanuYadu/assets/66067511/f07a513d-0bed-4316-a5b0-92302ff2eae0)
 
 Hello I'm  Tanu an Engineering graduate with a passion for innovation and problem-solving. My journey took an exciting turn when I pursued a Masters in Business Administration, which added a strategic dimension to my technical foundation.
 
@@ -35,5 +36,6 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<!-- - 📫 How to reach me: ...
+- 😄 Pronouns: ... -->
+
